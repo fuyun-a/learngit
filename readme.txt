@@ -5,7 +5,6 @@ dsfasdf
 git tracks changes files
 <<<<<<< HEAD
 greating a new branch is quick & simple.
-=======
 greating a new branch is quick AND simple.
 >>>>>>> feature1
 
