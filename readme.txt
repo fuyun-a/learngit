@@ -1,6 +1,7 @@
 one git 
 two git 
 three git
+<<<<<<< HEAD
 dsfasdf
 git tracks changes files
 <<<<<<< HEAD
@@ -11,4 +12,17 @@ three day.
 three day afternoon two.
 =======
 three day afternoon
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+<<<<<<< HEAD
+env
+=======
+learngit1 env
+>>>
+>>>> 6989dd2fe865a6997fbf9ba6e2d1fafd686ad7ce
+
+add new test
+=======
+>>>>>>> 70eee858539fe5e177b0edb79de462c38a2c1d4f
 >>>>>>> dev
