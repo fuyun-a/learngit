@@ -7,4 +7,8 @@ git tracks changes files
 greating a new branch is quick & simple.
 greating a new branch is quick AND simple.
 three day.
+<<<<<<< HEAD
 three day afternoon two.
+=======
+three day afternoon
+>>>>>>> dev
